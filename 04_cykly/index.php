@@ -97,7 +97,7 @@
             echo "Hráč $i.: " . "{$prvaKarta} {$druhaKarta}" . "</br>";
         }
 
-        //Pokračovanie v 05_polia/index.php
+        //Pokračovanie v 05_polia
     ?>
 </body>
 </html>
